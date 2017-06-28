@@ -1,0 +1,29 @@
+[
+  {
+    "identifier": "l001",
+    "name": "Centro Diciotto Milano",
+    "city": "Milano",
+    "region": "Lombardia",
+    "description": "...",
+
+    "address": "Via+Santa+Teresa,+18,+Milano"
+  },
+  {
+    "identifier": "l002",
+    "name": "Centro Diciotto Roma",
+    "city": "Roma",
+    "region": "Lazio",
+    "description": "...",
+
+    "address": "Piazzale+dell+umanesimo,+10,+Roma"
+  },
+  {
+    "identifier": "l003",
+    "name": "Centro Diciotto Firenze",
+    "city": "Firenze",
+    "region": "Toscana",
+    "description": "...",
+
+    "address": "Piazza+Santa+Maria+Nuova,+1,+Firenze"
+  }
+]
